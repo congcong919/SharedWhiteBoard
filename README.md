@@ -4,8 +4,8 @@ This project is a shared white board program that allows multiple users to draw 
 # To run the jar file in the terminal(CMD)
 -For host <br>
 **java -jar host.jar localhost 8006 hostname** <br>
-eg:java -jar host.jar localhost 8006 Alice <br>
+example: java -jar host.jar localhost 8006 Alice <br>
 
 -For guest <br>
 **java -jar guest.jar localhost 8006 guestname** <br>
-eg:java -jar guest.jar localhost 8006 Bob <br>
+example: java -jar guest.jar localhost 8006 Bob <br>
